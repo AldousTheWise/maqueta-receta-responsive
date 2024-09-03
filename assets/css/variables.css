@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "Outfit";
+  src: url("../fonts/outfit/Outfit-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Young-serif";
+  src: url("../fonts/young-serif/YoungSerif-Regular.ttf") format("truetype");
+}
+
+:root {
+  /*Fonts*/
+  --font-primary: "Outfit", sans-serif;
+  --font-secondary: "Young-serif", sans-serif;
+
+  /*Colors*/
+
+  /*Rose*/
+  --light-rose: hsl(330, 100%, 98%);
+  --dark-rose: hsl(332, 51%, 32%);
+
+  /*Brown*/
+  --brown: hsl(14, 45%, 36%);
+
+  /*Stone*/
+  --stone-900: hsl(24, 5%, 18%);
+  --stone-600: hsl(30, 10%, 34%);
+  --stone-150: hsl(30, 18%, 87%);
+  --stone-100: hsl(30, 54%, 90%);
+
+  /*White*/
+  --white: hsl(0, 0%, 100%);
+}
