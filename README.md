@@ -3,7 +3,7 @@
 Este es un proyecto de una **página de recetas** con un diseño atractivo y responsivo. La receta presentada es **Pollo a la Miel y Mostaza**, pero puedes adaptarla a otras recetas fácilmente.
 
 ## 🎨 Captura de Pantalla
-![Vista previa de la receta](https://raw.githubusercontent.com/AldousTheWise/recipe-page-main/main/screenshot.png)
+![Vista previa de la receta](preview.jpg)
 
 ## 🚀 Tecnologías Utilizadas
 
